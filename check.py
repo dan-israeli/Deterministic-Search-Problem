@@ -1,4 +1,4 @@
-import ex1
+import assignment
 import search
 import time
 from dataclasses import dataclass, field
